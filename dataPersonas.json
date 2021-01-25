@@ -1,0 +1,18 @@
+{
+    "ListaMiembros": [
+        {
+            "Id": 1,
+            "name": "Rafael",
+            "email": "Rafael@gmail.com",
+            "cel": "8711613809",
+            "prestamos": 3
+        },
+        {
+            "Id": 2,
+            "name": "Dana",
+            "email": "Dana@gmail.com",
+            "cel": "8711613810",
+            "prestamos": 3
+        }
+    ]
+}

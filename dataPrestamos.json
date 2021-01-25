@@ -1,0 +1,22 @@
+{
+    "ListaPrestamos": [
+        {
+            "folio": 1,
+            "miembro": 1,
+            "articulo": 1,
+            "cantidad": 2,
+            "fPrestamo": "2021-01-19 17:31:30.331791",
+            "devuelto": false,
+            "fDevolucion": ""
+        },
+        {
+            "folio": 2,
+            "miembro": 2,
+            "articulo": 1,
+            "cantidad": 2,
+            "fPrestamo": "2021-01-19 17:31:42.298744",
+            "devuelto": false,
+            "fDevolucion": ""
+        }
+    ]
+}
